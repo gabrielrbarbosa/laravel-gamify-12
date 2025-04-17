@@ -1,11 +1,11 @@
 {
-    "name": "qcod/laravel-gamify",
+    "name": "gabrielrbarbosa/laravel-gamify",
     "description": "Add gamification in laravel app with reputation point and badges support",
-    "homepage": "https://github.com/qcod/laravel-gamify",
+    "homepage": "https://github.com/gabrielrbarbosa/laravel-gamify",
     "type": "library",
     "license": "MIT",
     "keywords": [
-        "qcod",
+        "gabrielrbarbosa",
         "laravel",
         "achivement",
         "gamify",
